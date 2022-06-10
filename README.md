@@ -157,7 +157,7 @@ Most development discussions take place on GitHub in this repo. Further, the [pa
 
 ## Contributing to pandas [![Open Source Helpers](https://www.codetriage.com/pandas-dev/pandas/badges/users.svg)](https://www.codetriage.com/pandas-dev/pandas)
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are Welcome!
 
 A detailed overview on how to contribute can be found in the **[contributing guide](https://pandas.pydata.org/docs/dev/development/contributing.html)**.
 
